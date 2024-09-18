@@ -1,0 +1,1 @@
+E:\LoginSystemApp\loginsystemapp.client\obj\Debug\loginsystemapp.client.esproj.CoreCompileInputs.cache
