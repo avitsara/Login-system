@@ -19,6 +19,7 @@ E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\LoginSystemApp.Server.A
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\LoginSystemApp.Server.csproj.CoreCompileInputs.cache
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\LoginSystemApp.Server.MvcApplicationPartsAssemblyInfo.cs
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\LoginSystemApp.Server.MvcApplicationPartsAssemblyInfo.cache
+E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\LoginSystemApp.Server.sourcelink.json
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\staticwebassets.build.json
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\staticwebassets.development.json
 E:\LoginSystemApp\LoginSystemApp.Server\obj\Debug\net8.0\staticwebassets\msbuild.LoginSystemApp.Server.Microsoft.AspNetCore.StaticWebAssets.props
